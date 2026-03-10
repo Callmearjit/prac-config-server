@@ -1,0 +1,6 @@
+com\user_service\UserFeignClient.class
+com\user_service\controller\UserController.class
+com\user_service\service\UserService.class
+com\user_service\UserServiceApplication.class
+com\user_service\repo\UserJpaRepository.class
+com\user_service\entity\UserInformation.class

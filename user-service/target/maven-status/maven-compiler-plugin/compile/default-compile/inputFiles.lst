@@ -1,0 +1,6 @@
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\controller\UserController.java
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\entity\UserInformation.java
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\repo\UserJpaRepository.java
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\service\UserService.java
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\UserFeignClient.java
+D:\Capgemini_microservices\user-service\src\main\java\com\user_service\UserServiceApplication.java
